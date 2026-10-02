@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 59.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Desk Chair",
+      "price": 299.99,
+      "category": "Furniture"
+    },
+    {
+      "id": 4,
+      "name": "Notebook",
+      "price": 4.99,
+      "category": "Stationery"
+    },
+    {
+      "id": 5,
+      "name": "Water Bottle",
+      "price": 14.99,
+      "category": "Kitchen"
+    },
+    {
+      "id": 6,
+      "name": "Test Product",
+      "price": 99.99,
+      "category": "Test"
+    },
+    {
+      "id": 7,
+      "name": "Test Product",
+      "price": 99.99,
+      "category": "Test"
+    },
+    {
+      "id": 8,
+      "price": 50
+    }
+  ]
+}
